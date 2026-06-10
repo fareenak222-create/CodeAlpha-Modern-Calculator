@@ -20,9 +20,7 @@ A sleek and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-Add your project screenshot here.
-
-![Calculator Screenshot](screenshot.png)
+![My Calculator Screenshot](images/screenshot.png)
 
 ## 📂 Project Structure
 
@@ -37,7 +35,7 @@ calculator/
 
 ## 🌐 Live Demo
 
-[View Live Project](YOUR_GITHUB_PAGES_LINK)
+[View Live Project]( https://fareenak222-create.github.io/CodeAlpha-Modern-Calculator/)
 
 ## 💻 GitHub Repository
 
