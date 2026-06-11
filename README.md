@@ -35,7 +35,7 @@ calculator/
 
 ## 🌐 Live Demo
 
-[View Live Project]( https://fareenak222-create.github.io/CodeAlpha-Modern-Calculator/)
+[View Live Project]( https://fareenak222-create.github.io/Modern-Calculator/)
 
 ## 💻 GitHub Repository
 
